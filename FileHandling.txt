@@ -1,0 +1,4 @@
+CPP was made by Bjarne Stoustrup in 1987 as C with Class.
+
+Above was written in code editor but right now i am typing in txt file.
+so, that i can read it through C++ code editior.
